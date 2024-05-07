@@ -1,0 +1,14 @@
+C:\Users\I'm Pasha\source\repos\Lab29 Console App\Lab29 Console App\obj\Debug\net6.0\Lab29 Console App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I'm Pasha\source\repos\Lab29 Console App\Lab29 Console App\obj\Debug\net6.0\Lab29 Console App.AssemblyInfoInputs.cache
+C:\Users\I'm Pasha\source\repos\Lab29 Console App\Lab29 Console App\obj\Debug\net6.0\Lab29 Console App.AssemblyInfo.cs
+C:\Users\I'm Pasha\source\repos\Lab29 Console App\Lab29 Console App\obj\Debug\net6.0\Lab29 Console App.csproj.CoreCompileInputs.cache
+C:\Users\I'm Pasha\source\repos\Lab29 Console App\Lab29 Console App\bin\Debug\net6.0\Lab29 Console App.exe
+C:\Users\I'm Pasha\source\repos\Lab29 Console App\Lab29 Console App\bin\Debug\net6.0\Lab29 Console App.deps.json
+C:\Users\I'm Pasha\source\repos\Lab29 Console App\Lab29 Console App\bin\Debug\net6.0\Lab29 Console App.runtimeconfig.json
+C:\Users\I'm Pasha\source\repos\Lab29 Console App\Lab29 Console App\bin\Debug\net6.0\Lab29 Console App.dll
+C:\Users\I'm Pasha\source\repos\Lab29 Console App\Lab29 Console App\bin\Debug\net6.0\Lab29 Console App.pdb
+C:\Users\I'm Pasha\source\repos\Lab29 Console App\Lab29 Console App\obj\Debug\net6.0\Lab29 Console App.dll
+C:\Users\I'm Pasha\source\repos\Lab29 Console App\Lab29 Console App\obj\Debug\net6.0\refint\Lab29 Console App.dll
+C:\Users\I'm Pasha\source\repos\Lab29 Console App\Lab29 Console App\obj\Debug\net6.0\Lab29 Console App.pdb
+C:\Users\I'm Pasha\source\repos\Lab29 Console App\Lab29 Console App\obj\Debug\net6.0\Lab29 Console App.genruntimeconfig.cache
+C:\Users\I'm Pasha\source\repos\Lab29 Console App\Lab29 Console App\obj\Debug\net6.0\ref\Lab29 Console App.dll
